@@ -31,7 +31,7 @@ ng version
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/vikasv13579/doctor-chat-frontend.git
 cd docket-chat-frontend
 ```
 
