@@ -1,4 +1,4 @@
-# Docket Chat Frontend
+# Doctor Chat Frontend
 
 A modern real-time chat application built with Angular 21 that connects patients with doctors. This application provides a comprehensive healthcare communication platform with role-based access control, patient onboarding, and real-time messaging capabilities.
 
