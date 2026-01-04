@@ -196,11 +196,7 @@ This application is optimized for modern browsers:
 3. Run tests to ensure nothing breaks
 4. Submit a pull request
 
-## 📄 License
-
-This project is private and proprietary.
-
-## 📞 Support
+## 📞 Support   7082970065
 
 For issues or questions, please contact the development team.
 
